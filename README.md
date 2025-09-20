@@ -1,4 +1,4 @@
 # prakhar-git
 This is my first repository.
 <br>
-Author - Prakhar CSE
+Author - Prakhar Singh (CSE)
